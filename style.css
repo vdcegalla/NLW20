@@ -109,5 +109,5 @@ form button{
 button:hover {
   cursor: pointer;
   transform: translateY(-2px);
-  box-shadow: 0 5px 1rem rgba(255, 248, 107, 0.2);  /* valor 1: eixo x valor: eixo y valor 3: espalhar das informações valor 4; cor */
+  box-shadow: 0 5px 1rem rgba(255, 248, 107, 0.2);  /* valor 1: eixo x valor 2: eixo y valor 3: espalhar das informações valor 4: cor */
 }
